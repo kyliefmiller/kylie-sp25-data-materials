@@ -1,0 +1,133 @@
+first_name,last_name,date,age,native_country,destination_city,destination_state,occupation,ship
+Alex,McBride,09 Apr 1884,12,Scotland,Chicago,IL,Child,Steamship Grecian
+Cath,McBride,09 Apr 1884,11,Scotland,Chicago,IL,Child,Steamship Grecian
+Wm,McBride,09 Apr 1884,9,Scotland,Chicago,IL,Child,Steamship Grecian
+Agnes,McBride,09 Apr 1884,7,Scotland,Chicago,IL,Child,Steamship Grecian
+Maggie,McBride,09 Apr 1884,4,Scotland,Chicago,IL,Child,Steamship Grecian
+Robt,McBride,09 Apr 1884,6,Scotland,Chicago,IL,Child,Steamship Grecian
+Geo,Pollock,09 Apr 1884,4,Scotland,New York,NY,Child,Steamship Grecian
+Mary,Watson,09 Apr 1884,11,Scotland,Auburn,NY,Child,Steamship Grecian
+Sarah,Watson,09 Apr 1884,4,Scotland,Auburn,NY,Child,Steamship Grecian
+Hannah,Bretton,09 Apr 1884,2,Ireland,Boston,MA,Child,Steamship Grecian
+Pat,Doherty,09 Apr 1884,7,Ireland,Boston,MA,Child,Steamship Grecian
+Cath,Doherty,09 Apr 1884,6,Ireland,Boston,MA,Child,Steamship Grecian
+Mary,Doherty,09 Apr 1884,4,Ireland,Boston,MA,Child,Steamship Grecian
+Neal,Doherty,09 Apr 1884,2,Ireland,Boston,MA,Child,Steamship Grecian
+James,Doherty,09 Apr 1884,11,Ireland,Boston,MA,Child,Steamship Grecian
+Jas,Odonnell,09 Apr 1884,4,Ireland,Michanieville,CT,Child,Steamship Grecian
+Rachel,Routledge,09 Apr 1884,11,Ireland,Elmira,NY,Child,Steamship Grecian
+Wm,Routledge,09 Apr 1884,8,Ireland,Elmira,NY,Child,Steamship Grecian
+Letitia,Routledge,09 Apr 1884,5,Ireland,Elmira,NY,Child,Steamship Grecian
+James,Routledge,09 Apr 1884,3,Ireland,Elmira,NY,Child,Steamship Grecian
+Ellen,Odonnell,09 Apr 1884,11,Ireland,Scranton,PA,Child,Steamship Grecian
+Edw,Odonnell,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Pat,Odonnell,09 Apr 1884,7,Ireland,Scranton,PA,Child,Steamship Grecian
+Thos,Odonnell,09 Apr 1884,5,Ireland,Scranton,PA,Child,Steamship Grecian
+Marg,Odonnell,09 Apr 1884,3,Ireland,Scranton,PA,Child,Steamship Grecian
+Honor,McGough,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Ellen,McGough,09 Apr 1884,6,Ireland,Scranton,PA,Child,Steamship Grecian
+John,Gallagher,09 Apr 1884,6,Ireland,Jersey City,NJ,Child,Steamship Grecian
+James,Gallagher,09 Apr 1884,5,Ireland,Jersey City,NJ,Child,Steamship Grecian
+Thos,Gorman,09 Apr 1884,11,Ireland,New York,NY,Child,Steamship Grecian
+Bgt,Gorman,09 Apr 1884,9,Ireland,New York,NY,Child,Steamship Grecian
+Thos,Heally,09 Apr 1884,9,Ireland,Philadelphia,PA,Child,Steamship Grecian
+Harry,Heally,09 Apr 1884,4,Ireland,Philadelphia,PA,Child,Steamship Grecian
+Mary,Lofus,09 Apr 1884,11,Ireland,Oneida,NY,Child,Steamship Grecian
+Pat,Lofus,09 Apr 1884,7,Ireland,Oneida,NY,Child,Steamship Grecian
+Pat,Halligan,09 Apr 1884,11,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Bgt,Kearnes,09 Apr 1884,1,Ireland,San Fransisco,CA,Child,Steamship Grecian
+Agnes,McGiven,09 Apr 1884,11,Ireland,Mottville,NY,Child,Steamship Grecian
+Margt,McGiven,09 Apr 1884,5,Ireland,Mottville,NY,Child,Steamship Grecian
+Mich,Marrin,09 Apr 1884,8,Ireland,Danbury,CT,Child,Steamship Grecian
+John,Marrin,09 Apr 1884,5,Ireland,Danbury,CT,Child,Steamship Grecian
+Pat,Marrin,09 Apr 1884,2,Ireland,Danbury,CT,Child,Steamship Grecian
+James,Flannery,09 Apr 1884,8,Ireland,Lowell,MA,Child,Steamship Grecian
+Bgt,Giblin,09 Apr 1884,9,Ireland,Hartford,CT,Child,Steamship Grecian
+Mary,Coyne,09 Apr 1884,10,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Mich,Coyne,09 Apr 1884,6,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Cath,Coyne,09 Apr 1884,5,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Margt,Coyne,09 Apr 1884,2,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Homina,Cafferty,09 Apr 1884,11,Ireland,Chicago,IL,Child,Steamship Grecian
+Ellen,Cafferty,09 Apr 1884,9,Ireland,Chicago,IL,Child,Steamship Grecian
+Ann,Cafferty,09 Apr 1884,6,Ireland,Chicago,IL,Child,Steamship Grecian
+John,Conlon,09 Apr 1884,9,Ireland,Ekleson,ND,Child,Steamship Grecian
+Martin,Conlon,09 Apr 1884,7,Ireland,Ekleson,ND,Child,Steamship Grecian
+Pat,Conlon,09 Apr 1884,4,Ireland,Ekleson,ND,Child,Steamship Grecian
+Aud,Nolan,09 Apr 1884,9,Ireland,Painesville,OH,Child,Steamship Grecian
+Mary,Nolan,09 Apr 1884,7,Ireland,Painesville,OH,Child,Steamship Grecian
+Bgt,Nolan,09 Apr 1884,5,Ireland,Painesville,OH,Child,Steamship Grecian
+Mich,Nolan,09 Apr 1884,2,Ireland,Painesville,OH,Child,Steamship Grecian
+Jas,Reilly,09 Apr 1884,10,Ireland,Chicago,IL,Child,Steamship Grecian
+Sarah,Reilly,09 Apr 1884,8,Ireland,Chicago,IL,Child,Steamship Grecian
+Margt,Reilly,09 Apr 1884,4,Ireland,Chicago,IL,Child,Steamship Grecian
+Martin,Reilly,09 Apr 1884,2,Ireland,Chicago,IL,Child,Steamship Grecian
+Cath,O'Mally,09 Apr 1884,10,Ireland,Philadelphia,PA,Child,Steamship Grecian
+Gause,Doyle,09 Apr 1884,10,Ireland,Port Lewis,NY,Child,Steamship Grecian
+Ellen,Doyle,09 Apr 1884,4,Ireland,Port Lewis,NY,Child,Steamship Grecian
+Bgt,Parsons,09 Apr 1884,6,Ireland,Clinton,IA,Child,Steamship Grecian
+James,Parsons,09 Apr 1884,3,Ireland,Clinton,IA,Child,Steamship Grecian
+Cath,Byrne,09 Apr 1884,9,Ireland,Chicago,IL,Child,Steamship Grecian
+Mary,Byrne,09 Apr 1884,7,Ireland,Chicago,IL,Child,Steamship Grecian
+Ellen,Byrne,09 Apr 1884,5,Ireland,Chicago,IL,Child,Steamship Grecian
+John,Durkan,09 Apr 1884,9,Ireland,Providence,RI,Child,Steamship Grecian
+James,Durkan,09 Apr 1884,4,Ireland,Providence,RI,Child,Steamship Grecian
+Mary,Parsons,09 Apr 1884,5,Ireland,Chicago,IL,Child,Steamship Grecian
+Jas,Parsons,09 Apr 1884,3,Ireland,Chicago,IL,Child,Steamship Grecian
+Bgt,Parsons,09 Apr 1884,0,Ireland,Chicago,IL,Child,Steamship Grecian
+Mary,Divine,09 Apr 1884,11,Ireland,Fonda,NY,Child,Steamship Grecian
+Bern,Divine,09 Apr 1884,9,Ireland,Fonda,NY,Child,Steamship Grecian
+Pat,Divine,09 Apr 1884,8,Ireland,Fonda,NY,Child,Steamship Grecian
+Jas,Divine,09 Apr 1884,6,Ireland,Fonda,NY,Child,Steamship Grecian
+Mich,Gallagher,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Dennis,Gallagher,09 Apr 1884,5,Ireland,Scranton,PA,Child,Steamship Grecian
+Bgt,Gallagher,09 Apr 1884,3,Ireland,Scranton,PA,Child,Steamship Grecian
+Tom,Higgins,09 Apr 1884,10,Ireland,Lock Haven,PA,Child,Steamship Grecian
+Cath,Higgins,09 Apr 1884,8,Ireland,Lock Haven,PA,Child,Steamship Grecian
+Cath,McDonough,09 Apr 1884,8,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Bgt,McDonough,09 Apr 1884,5,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Ann,McDonough,09 Apr 1884,2,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Ann,Brennan,09 Apr 1884,11,Ireland,New York,NY,Child,Steamship Grecian
+Maggie,Brennan,09 Apr 1884,9,Ireland,New York,NY,Child,Steamship Grecian
+Kate,Brennan,09 Apr 1884,3,Ireland,New York,NY,Child,Steamship Grecian
+Mich,Reanny,09 Apr 1884,11,Ireland,Scranton,PA,Child,Steamship Grecian
+Wm,Reanny,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Walter,Reanny,09 Apr 1884,7,Ireland,Scranton,PA,Child,Steamship Grecian
+Henry,Reanny,09 Apr 1884,2,Ireland,Scranton,PA,Child,Steamship Grecian
+Maria,Seffington,09 Apr 1884,2,Ireland,Rutland,VT,Child,Steamship Grecian
+Mary,Mulkern,09 Apr 1884,7,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Pat,Mulkern,09 Apr 1884,0,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Mary,Saul,09 Apr 1884,11,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Jas,Saul,09 Apr 1884,8,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Peter,Saul,09 Apr 1884,7,Ireland,Indianapolis,IN,Child,Steamship Grecian
+John,Saul,09 Apr 1884,5,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Edw,Saul,09 Apr 1884,3,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Norah,Saul,09 Apr 1884,0,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Austin,Mulkeen,09 Apr 1884,0,Ireland,Boston,MA,Child,Steamship Grecian
+Pat,Quinn,09 Apr 1884,11,Ireland,Boston,MA,Child,Steamship Grecian
+Jas,Conway,09 Apr 1884,11,Ireland,New York,NY,Child,Steamship Grecian
+John,Conway,09 Apr 1884,10,Ireland,New York,NY,Child,Steamship Grecian
+Mich,Conway,09 Apr 1884,7,Ireland,Boston,MA,Child,Steamship Grecian
+Martin,Beatty,09 Apr 1884,8,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Tom,Folan,09 Apr 1884,0,Ireland,Mansfield,MA,Child,Steamship Grecian
+Colman,Mulkern,09 Apr 1884,11,Ireland,Pittsburg,PA,Child,Steamship Grecian
+John,Mulkern,09 Apr 1884,9,Ireland,Pittsburg,PA,Child,Steamship Grecian
+John,Winkle,09 Apr 1884,10,Ireland,Portland,ME,Child,Steamship Grecian
+Mary,Winkle,09 Apr 1884,11,Ireland,Portland,ME,Child,Steamship Grecian
+Simon,Kerrigan,09 Apr 1884,8,Ireland,Winchester,MA,Child,Steamship Grecian
+Pat,Kerrigan,09 Apr 1884,10,Ireland,Winchester,MA,Child,Steamship Grecian
+Mary,Kerrigan,09 Apr 1884,11,Ireland,Winchester,MA,Child,Steamship Grecian
+Ann,Kerrigan,09 Apr 1884,4,Ireland,Winchester,MA,Child,Steamship Grecian
+Barb,Adley,09 Apr 1884,11,Ireland,Portland,ME,Child,Steamship Grecian
+Mary,Mullin,09 Apr 1884,3,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Barb,Mullin,09 Apr 1884,2,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Colman,Flaherty,09 Apr 1884,11,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Edw,Flaherty,09 Apr 1884,10,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Marg,Flaherty,09 Apr 1884,6,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Mary,Flaherty,09 Apr 1884,4,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Mich,Deran,09 Apr 1884,4,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Barb,Deran,09 Apr 1884,11,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Ellen,Deran,09 Apr 1884,8,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Pat,Kyne,09 Apr 1884,9,Ireland,Portland,ME,Child,Steamship Grecian
+John,Kyne,09 Apr 1884,3,Ireland,Portland,ME,Child,Steamship Grecian
+Mich,Kyne,09 Apr 1884,0,Ireland,Portland,ME,Child,Steamship Grecian
+Math,Griffins,09 Apr 1884,2,Ireland,Pittsburg,PA,Child,Steamship Grecian
