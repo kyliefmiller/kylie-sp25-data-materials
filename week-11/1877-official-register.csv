@@ -1,0 +1,904 @@
+Name,State,Department,Type,People,Latitude,Longitude
+Prescott,AZ,Department of the Interior,General Land Office Receivers,1,34.5400242,-112.468503
+Florence,AZ,Department of the Interior,General Land Office Receivers,1,33.0314508,-111.387343
+San Francisco,CA,Department of the Interior,General Land Office Receivers,1,37.7749295,-122.419416
+Marysville,CA,Department of the Interior,General Land Office Receivers,1,39.1457253,-121.591355
+Humboldt,CA,Department of the Interior,General Land Office Receivers,1,40.7450055,-123.869509
+Stockton,CA,Department of the Interior,General Land Office Receivers,1,37.9577016,-121.29078
+Visalia,CA,Department of the Interior,General Land Office Receivers,1,36.3302284,-119.292059
+Sacramento,CA,Department of the Interior,General Land Office Receivers,1,38.5815719,-121.4944
+Los Angeles,CA,Department of the Interior,General Land Office Receivers,1,34.0522342,-118.243685
+Shasta,CA,Department of the Interior,General Land Office Receivers,1,40.598119,-122.490757
+Susanville,CA,Department of the Interior,General Land Office Receivers,1,40.4162842,-120.653006
+Independence,CA,Department of the Interior,General Land Office Receivers,1,36.8027102,-118.200095
+Denver,CO,Department of the Interior,General Land Office Receivers,1,39.7392358,-104.990251
+Fair Play,CO,Department of the Interior,General Land Office Receivers,1,39.2247125,-106.001962
+Central City,CO,Department of the Interior,General Land Office Receivers,1,39.8019322,-105.514164
+Pueblo,CO,Department of the Interior,General Land Office Receivers,1,38.2544472,-104.609141
+Del Norte,CO,Department of the Interior,General Land Office Receivers,1,37.6788919,-106.353368
+Lake City,CO,Department of the Interior,General Land Office Receivers,1,38.0299967,-107.315334
+Boise,ID,Department of the Interior,General Land Office Receivers,1,43.6187102,-116.214607
+Lewiston,ID,Department of the Interior,General Land Office Receivers,1,46.39901,-117.004303
+Topeka,KS,Department of the Interior,General Land Office Receivers,1,39.0558235,-95.689019
+Salina,KS,Department of the Interior,General Land Office Receivers,1,38.8402805,-97.611424
+Independence,KS,Department of the Interior,General Land Office Receivers,1,37.2242358,-95.708313
+Wichita,KS,Department of the Interior,General Land Office Receivers,1,37.6871761,-97.330053
+Kirwin,KS,Department of the Interior,General Land Office Receivers,1,39.6730662,-99.122311
+Concordia,KS,Department of the Interior,General Land Office Receivers,1,39.5708354,-97.66254
+Larned,KS,Department of the Interior,General Land Office Receivers,1,38.1805693,-99.098713
+Hays City,KS,Department of the Interior,General Land Office Receivers,1,38.879444,-99.322222
+Helena,MT,Department of the Interior,General Land Office Receivers,1,46.5883707,-112.024505
+Bozeman,MT,Department of the Interior,General Land Office Receivers,1,45.6769979,-111.042934
+Fargo,ND,Department of the Interior,General Land Office Receivers,1,46.8771863,-96.789803
+Bismark,ND,Department of the Interior,General Land Office Receivers,1,46.8083268,-100.783739
+Norfolk,NE,Department of the Interior,General Land Office Receivers,1,42.0327234,-97.413755
+Beatrice,NE,Department of the Interior,General Land Office Receivers,1,40.2659269,-96.746691
+Lincoln,NE,Department of the Interior,General Land Office Receivers,1,40.8257625,-96.685198
+Niobrara,NE,Department of the Interior,General Land Office Receivers,1,42.7547231,-98.028682
+Grand Island,NE,Department of the Interior,General Land Office Receivers,1,40.9263957,-98.342012
+North Platte,NE,Department of the Interior,General Land Office Receivers,1,41.1402759,-100.760145
+Bloomington,NE,Department of the Interior,General Land Office Receivers,1,40.0941794,-99.037029
+Santa Fe,NM,Department of the Interior,General Land Office Receivers,1,35.6869752,-105.937799
+La Mesilla,NM,Department of the Interior,General Land Office Receivers,1,35.9483575,-106.070579
+Carson City,NV,Department of the Interior,General Land Office Receivers,1,39.1637984,-119.767403
+Eureka,NV,Department of the Interior,General Land Office Receivers,1,39.5124858,-115.96078
+Oregon City,OR,Department of the Interior,General Land Office Receivers,1,45.3573429,-122.606758
+Roseburg,OR,Department of the Interior,General Land Office Receivers,1,43.216505,-123.341738
+Le Grand,OR,Department of the Interior,General Land Office Receivers,1,45.327222,-118.093333
+Lake View,OR,Department of the Interior,General Land Office Receivers,1,42.1887721,-120.345792
+Dalles,OR,Department of the Interior,General Land Office Receivers,1,32.7766642,-96.796988
+Sioux Falls,SD,Department of the Interior,General Land Office Receivers,1,43.5445959,-96.731103
+Springfield,SD,Department of the Interior,General Land Office Receivers,1,42.8541657,-97.897291
+Yankton,SD,Department of the Interior,General Land Office Receivers,1,42.8711088,-97.397281
+Deadwood,SD,Department of the Interior,General Land Office Receivers,1,44.376651,-103.729642
+Salt Lake City,UT,Department of the Interior,General Land Office Receivers,1,40.7607793,-111.891047
+Olympia,WA,Department of the Interior,General Land Office Receivers,1,47.0378741,-122.900695
+Vancouver,WA,Department of the Interior,General Land Office Receivers,1,45.6387281,-122.661486
+Walla Walla,WA,Department of the Interior,General Land Office Receivers,1,46.0645809,-118.343021
+Cheyenne,WY,Department of the Interior,General Land Office Receivers,1,41.1399814,-104.820246
+Evanston,WY,Department of the Interior,General Land Office Receivers,1,41.2682794,-110.963237
+Prescott,AZ,Department of the Interior,General Land Office Registers,1,34.5400242,-112.468503
+Florence,AZ,Department of the Interior,General Land Office Registers,1,33.0314508,-111.387343
+San Francisco,CA,Department of the Interior,General Land Office Registers,1,37.7749295,-122.419416
+Marysville,CA,Department of the Interior,General Land Office Registers,1,39.1457253,-121.591355
+Humboldt,CA,Department of the Interior,General Land Office Registers,1,40.7450055,-123.869509
+Stockton,CA,Department of the Interior,General Land Office Registers,1,37.9577016,-121.29078
+Visalia,CA,Department of the Interior,General Land Office Registers,1,36.3302284,-119.292059
+Sacramento,CA,Department of the Interior,General Land Office Registers,1,38.5815719,-121.4944
+Los Angeles,CA,Department of the Interior,General Land Office Registers,1,34.0522342,-118.243685
+Shasta,CA,Department of the Interior,General Land Office Registers,1,40.598119,-122.490757
+Susanville,CA,Department of the Interior,General Land Office Registers,1,40.4162842,-120.653006
+Independence,CA,Department of the Interior,General Land Office Registers,1,36.8027102,-118.200095
+Denver,CO,Department of the Interior,General Land Office Registers,1,39.7392358,-104.990251
+Fair Play,CO,Department of the Interior,General Land Office Registers,1,39.2247125,-106.001962
+Central City,CO,Department of the Interior,General Land Office Registers,1,39.8019322,-105.514164
+Pueblo,CO,Department of the Interior,General Land Office Registers,1,38.2544472,-104.609141
+Del Norte,CO,Department of the Interior,General Land Office Registers,1,37.6788919,-106.353368
+Lake City,CO,Department of the Interior,General Land Office Registers,1,38.0299967,-107.315334
+Boise,ID,Department of the Interior,General Land Office Registers,1,43.6187102,-116.214607
+Lewiston,ID,Department of the Interior,General Land Office Registers,1,46.39901,-117.004303
+Topeka,KS,Department of the Interior,General Land Office Registers,1,39.0558235,-95.689019
+Salina,KS,Department of the Interior,General Land Office Registers,1,38.8402805,-97.611424
+Independence,KS,Department of the Interior,General Land Office Registers,1,37.2242358,-95.708313
+Wichita,KS,Department of the Interior,General Land Office Registers,1,37.6871761,-97.330053
+Kirwin,KS,Department of the Interior,General Land Office Registers,1,39.6730662,-99.122311
+Concordia,KS,Department of the Interior,General Land Office Registers,1,39.5708354,-97.66254
+Larned,KS,Department of the Interior,General Land Office Registers,1,38.1805693,-99.098713
+Hays City,KS,Department of the Interior,General Land Office Registers,1,38.879444,-99.322222
+Helena,MT,Department of the Interior,General Land Office Registers,1,46.5883707,-112.024505
+Bozeman,MT,Department of the Interior,General Land Office Registers,1,45.6769979,-111.042934
+Fargo,ND,Department of the Interior,General Land Office Registers,1,46.8771863,-96.789803
+Bismark,ND,Department of the Interior,General Land Office Registers,1,46.8083268,-100.783739
+Norfolk,NE,Department of the Interior,General Land Office Registers,1,42.0327234,-97.413755
+Beatrice,NE,Department of the Interior,General Land Office Registers,1,40.2659269,-96.746691
+Lincoln,NE,Department of the Interior,General Land Office Registers,1,40.8257625,-96.685198
+Niobrara,NE,Department of the Interior,General Land Office Registers,1,42.7547231,-98.028682
+Grand Island,NE,Department of the Interior,General Land Office Registers,1,40.9263957,-98.342012
+North Platte,NE,Department of the Interior,General Land Office Registers,1,41.1402759,-100.760145
+Bloomington,NE,Department of the Interior,General Land Office Registers,1,40.0941794,-99.037029
+Santa Fe,NM,Department of the Interior,General Land Office Registers,1,35.6869752,-105.937799
+La Mesilla,NM,Department of the Interior,General Land Office Registers,1,35.9483575,-106.070579
+Carson City,NV,Department of the Interior,General Land Office Registers,1,39.1637984,-119.767403
+Eureka,NV,Department of the Interior,General Land Office Registers,1,39.5124858,-115.96078
+Oregon City,OR,Department of the Interior,General Land Office Registers,1,45.3573429,-122.606758
+Roseburg,OR,Department of the Interior,General Land Office Registers,1,43.216505,-123.341738
+Le Grand,OR,Department of the Interior,General Land Office Registers,1,45.327222,-118.093333
+Lake View,OR,Department of the Interior,General Land Office Registers,1,42.1887721,-120.345792
+Dalles,OR,Department of the Interior,General Land Office Registers,1,32.7766642,-96.796988
+Yankton,SD,Department of the Interior,General Land Office Registers,1,42.8711088,-97.397281
+Sioux Falls,SD,Department of the Interior,General Land Office Registers,1,43.5445959,-96.731103
+Springfield,SD,Department of the Interior,General Land Office Registers,1,42.8541657,-97.897291
+Deadwood,SD,Department of the Interior,General Land Office Registers,1,44.376651,-103.729642
+Salt Lake City,UT,Department of the Interior,General Land Office Registers,1,40.7607793,-111.891047
+Olympia,WA,Department of the Interior,General Land Office Registers,1,47.0378741,-122.900695
+Vancouver,WA,Department of the Interior,General Land Office Registers,1,45.6387281,-122.661486
+Walla Walla,WA,Department of the Interior,General Land Office Registers,1,46.0645809,-118.343021
+Cheyenne,WY,Department of the Interior,General Land Office Registers,1,41.1399814,-104.820246
+Evanston,WY,Department of the Interior,General Land Office Registers,1,41.2682794,-110.963237
+Prescott,AZ,Department of the Interior,Governors and Secretaries of the Territories,2,34.5400242,-112.468503
+Boise,ID,Department of the Interior,Governors and Secretaries of the Territories,2,43.6187102,-116.214607
+Helena,MT,Department of the Interior,Governors and Secretaries of the Territories,2,46.5883707,-112.024505
+Santa Fe,NM,Department of the Interior,Governors and Secretaries of the Territories,2,35.6869752,-105.937799
+Yankton,SD,Department of the Interior,Governors and Secretaries of the Territories,2,42.8711088,-97.397281
+Salt Lake City,UT,Department of the Interior,Governors and Secretaries of the Territories,2,40.7607793,-111.891047
+Olympia,WA,Department of the Interior,Governors and Secretaries of the Territories,2,47.0378741,-122.900695
+Cheyenne,WY,Department of the Interior,Governors and Secretaries of the Territories,2,41.1399814,-104.820246
+Colorado River Agency,AZ,Department of the Interior,Office of Indian Affairs,5,34.1465447,-114.299026
+Pima and Maricopa Agency,AZ,Department of the Interior,Office of Indian Affairs,6,33.09801,-111.75104
+Papago Agency,AZ,Department of the Interior,Office of Indian Affairs,2,32.05007,-111.08398
+San Carlos Agency,AZ,Department of the Interior,Office of Indian Affairs,15,33.3637214,-110.459824
+Round Valley Agency,CA,Department of the Interior,Office of Indian Affairs,12,39.8277382,-123.24117
+Tule River Agency,CA,Department of the Interior,Office of Indian Affairs,5,36.02689,-118.72231
+Los Pinos Agency,CO,Department of the Interior,Office of Indian Affairs,10,38.32498,-107.77978
+Southern Ute Agency,CO,Department of the Interior,Office of Indian Affairs,2,37.115,-107.63311
+White River Agency,CO,Department of the Interior,Office of Indian Affairs,7,40.0908,-108.22425
+Fort Hall Agency,ID,Department of the Interior,Office of Indian Affairs,10,43.029352,-112.427011
+Lemhi Agency,ID,Department of the Interior,Office of Indian Affairs,4,43.02935,-112.42701
+Nez Perce Agency,ID,Department of the Interior,Office of Indian Affairs,20,46.3957406,-116.800902
+Lawrence,KS,Department of the Interior,Office of Indian Affairs,6,38.9716689,-95.23525
+Pottawatomie Agency,KS,Department of the Interior,Office of Indian Affairs,14,39.334,-95.76998
+Blackfeet Agency,MT,Department of the Interior,Office of Indian Affairs,11,48.5613552,-113.01284
+Crow Agency,MT,Department of the Interior,Office of Indian Affairs,13,45.6041414,-107.464528
+Flathead Agency,MT,Department of the Interior,Office of Indian Affairs,14,47.499722,-114.279444
+Fort Peck Agency,MT,Department of the Interior,Office of Indian Affairs,16,48.109444,-105.195
+Devil's Lake Agency,ND,Department of the Interior,Office of Indian Affairs,11,47.97603,-98.99696
+Fort Berthold Agency,ND,Department of the Interior,Office of Indian Affairs,17,47.743056,-102.2775
+Standing Rock Agency,ND,Department of the Interior,Office of Indian Affairs,14,46.0922614,-100.629022
+Great Nemaha Agency,NE,Department of the Interior,Office of Indian Affairs,16,40.0243939,-95.356951
+Omaha Agency,NE,Department of the Interior,Office of Indian Affairs,10,42.224444,-96.596944
+Otoe Agency,NE,Department of the Interior,Office of Indian Affairs,12,40.10236,-96.59625
+Red Cloud Agency,NE,Department of the Interior,Office of Indian Affairs,6,42.66969,-103.43548
+Spotted Tail Agency,NE,Department of the Interior,Office of Indian Affairs,10,42.6838618,-102.689901
+Winnebago Agency,NE,Department of the Interior,Office of Indian Affairs,24,42.23332,-96.56698
+Santee Agency,NE,Department of the Interior,Office of Indian Affairs,15,42.84111,-97.8509
+Abiquiu Agency,NM,Department of the Interior,Office of Indian Affairs,5,36.20724,-106.31863
+Mescalero Apache Agency,NM,Department of the Interior,Office of Indian Affairs,7,33.15758,-105.77415
+Cimarron Agency,NM,Department of the Interior,Office of Indian Affairs,4,36.88562,-108.58187
+Navajo Agency,NM,Department of the Interior,Office of Indian Affairs,8,35.6834289,-108.145539
+Pueblo Agency,NM,Department of the Interior,Office of Indian Affairs,8,36.39546,-105.60831
+Southern Apache Agency,NM,Department of the Interior,Office of Indian Affairs,2,33.15758,-105.77415
+Pi Ute Agency,NV,Department of the Interior,Office of Indian Affairs,5,39.83185,-119.35795
+Western Shoshone Agency,NV,Department of the Interior,Office of Indian Affairs,1,38.8026097,-116.419389
+Cheyenne Agency,OK,Department of the Interior,Office of Indian Affairs,1,35.575278,-98.008889
+Cheyenne and Arapahoe Agency,OK,Department of the Interior,Office of Indian Affairs,11,35.575278,-98.008889
+Kiowa and Comanche Agency,OK,Department of the Interior,Office of Indian Affairs,12,34.59383,-98.41842
+Osage and Kaw Agency,OK,Department of the Interior,Office of Indian Affairs,13,36.66784,-96.33723
+Pawnee Agency,OK,Department of the Interior,Office of Indian Affairs,16,36.3380039,-96.795636
+Ponca Agency,OK,Department of the Interior,Office of Indian Affairs,13,36.608,-97.076
+Quapaw Agency,OK,Department of the Interior,Office of Indian Affairs,8,36.95451,-94.788
+Sac and Fox Agency,OK,Department of the Interior,Office of Indian Affairs,23,35.66668,-96.66348
+Union Agency,OK,Department of the Interior,Office of Indian Affairs,1,35.74787,-95.36969
+Wichita Agency,OK,Department of the Interior,Office of Indian Affairs,18,35.07256,-98.24366
+Grand Ronde Agency,OR,Department of the Interior,Office of Indian Affairs,6,45.0798348,-123.611777
+Klamath Agency,OR,Department of the Interior,Office of Indian Affairs,14,42.6181909,-121.933907
+Malheur Agency,OR,Department of the Interior,Office of Indian Affairs,11,43.06666667,-118.966667
+Siletz Agency,OR,Department of the Interior,Office of Indian Affairs,8,44.723134,-123.910587
+Umatilla Agency,OR,Department of the Interior,Office of Indian Affairs,11,45.6704,-118.68359
+Warm Springs Agency,OR,Department of the Interior,Office of Indian Affairs,8,44.7797901,-121.245528
+Cheyenne Agency,SD,Department of the Interior,Office of Indian Affairs,12,44.66689,-100.6512
+Crow Creek Agency,SD,Department of the Interior,Office of Indian Affairs,12,44.128889,-99.473889
+Flandreau Agency,SD,Department of the Interior,Office of Indian Affairs,2,44.047778,-96.596389
+Lower Brule Agency,SD,Department of the Interior,Office of Indian Affairs,9,44.08,-99.78
+Sisseton Agency,SD,Department of the Interior,Office of Indian Affairs,17,45.66468,-97.0498
+Yankton,SD,Department of the Interior,Office of Indian Affairs,2,42.8711088,-97.397281
+Yankton Agency,SD,Department of the Interior,Office of Indian Affairs,22,43.08332,-98.38369
+Uintah Agency,UT,Department of the Interior,Office of Indian Affairs,8,40.28801,-109.85459
+Colville Agency,WA,Department of the Interior,Office of Indian Affairs,5,48.229722,-118.872778
+Neah Bay Agency,WA,Department of the Interior,Office of Indian Affairs,13,48.3708393,-124.591494
+Nisqually Agency,WA,Department of the Interior,Office of Indian Affairs,5,47.006111,-122.669722
+Quinaielt Agency,WA,Department of the Interior,Office of Indian Affairs,6,47.3473,-124.29323
+Skokomish Agency,WA,Department of the Interior,Office of Indian Affairs,8,47.3237337,-123.137252
+Tulalip Agency,WA,Department of the Interior,Office of Indian Affairs,9,48.0776726,-122.270508
+Yakama Agency,WA,Department of the Interior,Office of Indian Affairs,13,46.233333,-120.821944
+Shoshone and Bannack Agency,WY,Department of the Interior,Office of Indian Affairs,6,42.86258,-112.57842
+San Francisco,CA,Department of the Interior,Pension Office,1,37.7749295,-122.419416
+Tucson,AZ,Department of the Interior,Surveyors General,3,32.2217429,-110.926479
+San Francisco,CA,Department of the Interior,Surveyors General,19,37.7749295,-122.419416
+Denver,CO,Department of the Interior,Surveyors General,5,39.7392358,-104.990251
+Boise,ID,Department of the Interior,Surveyors General,4,43.6187102,-116.214607
+Helena,MT,Department of the Interior,Surveyors General,15,46.5883707,-112.024505
+Plattsmouth,NE,Department of the Interior,Surveyors General,5,41.0111103,-95.880842
+Santa Fe,NM,Department of the Interior,Surveyors General,5,35.6869752,-105.937799
+Virginia City,NV,Department of the Interior,Surveyors General,4,39.3095135,-119.649979
+Portland,OR,Department of the Interior,Surveyors General,7,45.5230622,-122.676482
+Yankton,SD,Department of the Interior,Surveyors General,6,42.8711088,-97.397281
+Salt Lake City,UT,Department of the Interior,Surveyors General,6,40.7607793,-111.891047
+Olympia,WA,Department of the Interior,Surveyors General,5,47.0378741,-122.900695
+Cheyenne,WY,Department of the Interior,Surveyors General,4,41.1399814,-104.820246
+Tucson,AZ,Judicial,Commissioner,1,32.2217429,-110.926479
+Yuma,AZ,Judicial,Commissioner,3,32.6926512,-114.627692
+Prescott,AZ,Judicial,Commissioner,1,34.5400242,-112.468503
+Ehrenbergh,AZ,Judicial,Commissioner,1,33.6041914,-114.525232
+Florence,AZ,Judicial,Commissioner,1,33.0314508,-111.387343
+Montezuma,AZ,Judicial,Commissioner,1,33.0758783,-113.222962
+Los Angeles,CA,Judicial,Commissioner,1,34.0522342,-118.243685
+San Francisco,CA,Judicial,Commissioner,9,37.7749295,-122.419416
+Millerton,CA,Judicial,Commissioner,1,38.10917,-122.84444
+Sacramento,CA,Judicial,Commissioner,2,38.5815719,-121.4944
+Shasta,CA,Judicial,Commissioner,1,40.598119,-122.490757
+Watsonville,CA,Judicial,Commissioner,1,36.910231,-121.756895
+Woodland,CA,Judicial,Commissioner,1,38.6785157,-121.773297
+Havilah,CA,Judicial,Commissioner,2,35.5177324,-118.518697
+San Andreas,CA,Judicial,Commissioner,1,38.1960298,-120.680487
+Martinez,CA,Judicial,Commissioner,1,38.0193657,-122.134132
+Quincy,CA,Judicial,Commissioner,1,39.9368363,-120.947176
+Jackson,CA,Judicial,Commissioner,1,38.3488023,-120.774102
+Stockton,CA,Judicial,Commissioner,1,37.9577016,-121.29078
+Ukiah,CA,Judicial,Commissioner,1,39.1501709,-123.207783
+Healdsburgh,CA,Judicial,Commissioner,1,38.6104658,-122.869161
+Mariposa,CA,Judicial,Commissioner,1,37.4849377,-119.966284
+San Bernardino,CA,Judicial,Commissioner,1,34.1083449,-117.289765
+Oroville,CA,Judicial,Commissioner,1,39.5137752,-121.556359
+Nevada City,CA,Judicial,Commissioner,1,39.2615606,-121.016059
+Santa Cruz,CA,Judicial,Commissioner,1,36.9741171,-122.030796
+Arcata,CA,Judicial,Commissioner,1,40.8665166,-124.08284
+Downieville,CA,Judicial,Commissioner,1,39.5595198,-120.827697
+Marysville,CA,Judicial,Commissioner,1,39.1457253,-121.591355
+Redwood City,CA,Judicial,Commissioner,1,37.4852152,-122.236355
+Auburn,CA,Judicial,Commissioner,1,38.8965654,-121.07689
+Colusa,CA,Judicial,Commissioner,1,39.2143343,-122.009418
+Quincy,CA,Judicial,Commissioner,1,39.9368363,-120.947176
+Fairfield,CA,Judicial,Commissioner,1,38.2493581,-122.039966
+Visalia,CA,Judicial,Commissioner,1,36.3302284,-119.292059
+Markleville,CA,Judicial,Commissioner,1,38.6937227,-119.779683
+Jackson,CA,Judicial,Commissioner,1,38.3488023,-120.774102
+Santa Barbara,CA,Judicial,Commissioner,1,34.4208305,-119.69819
+Petaluma,CA,Judicial,Commissioner,1,38.232417,-122.636652
+Lakeport,CA,Judicial,Commissioner,1,39.0429506,-122.915829
+Vallejo,CA,Judicial,Commissioner,1,38.1040864,-122.256637
+Placerville,CA,Judicial,Commissioner,1,38.7296252,-120.798546
+Eureka,CA,Judicial,Commissioner,1,40.8020712,-124.163673
+Weaverville,CA,Judicial,Commissioner,1,40.7309778,-122.941971
+Angel's Camp,CA,Judicial,Commissioner,1,38.0677832,-120.53853
+San Diego,CA,Judicial,Commissioner,1,32.715738,-117.161084
+Hollister,CA,Judicial,Commissioner,1,36.8524545,-121.401602
+Benicia,CA,Judicial,Commissioner,1,38.049365,-122.158578
+Sonora,CA,Judicial,Commissioner,1,37.9829496,-120.382172
+Crescent City,CA,Judicial,Commissioner,1,41.7557501,-124.202591
+San Rafael,CA,Judicial,Commissioner,1,37.9735346,-122.531087
+Yreka,CA,Judicial,Commissioner,2,41.7354186,-122.634471
+Salinas,CA,Judicial,Commissioner,2,36.6777372,-121.655501
+San Leandro,CA,Judicial,Commissioner,1,37.7249296,-122.156077
+Independence,CA,Judicial,Commissioner,1,36.8027102,-118.200095
+Yuba,CA,Judicial,Commissioner,1,39.14044,-121.61691
+Susanville,CA,Judicial,Commissioner,2,40.4162842,-120.653006
+Bridgeport,CA,Judicial,Commissioner,1,38.2557045,-119.231393
+Snellings,CA,Judicial,Commissioner,1,37.5193136,-120.437791
+San Jose,CA,Judicial,Commissioner,1,37.3382082,-121.886329
+Colorado Springs,CO,Judicial,Commissioner,1,38.8338816,-104.821363
+Central City,CO,Judicial,Commissioner,4,39.8019322,-105.514164
+Fort Collins,CO,Judicial,Commissioner,1,40.5852602,-105.084423
+Trinidad,CO,Judicial,Commissioner,1,37.1694632,-104.500541
+Silverton,CO,Judicial,Commissioner,1,37.811941,-107.664506
+Boulder,CO,Judicial,Commissioner,1,40.0149856,-105.270546
+Georgetown,CO,Judicial,Commissioner,1,39.7060984,-105.697504
+Boise,ID,Judicial,Commissioner,1,43.6187102,-116.214607
+Silver City,ID,Judicial,Commissioner,1,43.0168263,-116.73318
+Hays City,KS,Judicial,Commissioner,1,38.879444,-99.322222
+Lawrence,KS,Judicial,Commissioner,1,38.9716689,-95.23525
+Topeka,KS,Judicial,Commissioner,4,39.0558235,-95.689019
+Chetopa,KS,Judicial,Commissioner,1,37.0372916,-95.089961
+Baxter Springs,KS,Judicial,Commissioner,1,37.0236759,-94.735504
+Larned,KS,Judicial,Commissioner,1,38.1805693,-99.098713
+Coffeyville,KS,Judicial,Commissioner,1,37.0373005,-95.616367
+Paola,KS,Judicial,Commissioner,2,38.5722353,-94.879129
+Concordia,KS,Judicial,Commissioner,1,39.5708354,-97.66254
+Independence,KS,Judicial,Commissioner,1,37.2242358,-95.708313
+Wichita,KS,Judicial,Commissioner,1,37.6871761,-97.330053
+White Cloud,KS,Judicial,Commissioner,1,39.9763876,-95.296922
+Belleville,KS,Judicial,Commissioner,1,39.8244501,-97.632542
+Marysville,KS,Judicial,Commissioner,1,39.8411129,-96.647242
+Helena,MT,Judicial,Commissioner,1,46.5883707,-112.024505
+Virginia City,MT,Judicial,Commissioner,1,45.2938143,-111.946091
+Deer Lodge,MT,Judicial,Commissioner,2,46.3990941,-112.738372
+Sun River,MT,Judicial,Commissioner,1,47.5332871,-111.721372
+Raderburg,MT,Judicial,Commissioner,1,46.1957622,-111.631919
+Carroll,MT,Judicial,Commissioner,1,47.5736111,-108.372778
+Bozeman,MT,Judicial,Commissioner,1,45.6769979,-111.042934
+Camp Baker,MT,Judicial,Commissioner,1,46.68,-111.1675
+Mammoth Hot Springs,MT,Judicial,Commissioner,1,44.9768789,-110.69913
+Crow Agency,MT,Judicial,Commissioner,1,45.6041414,-107.464528
+Hamilton,MT,Judicial,Commissioner,1,46.248333,-114.159722
+Fort Benton,MT,Judicial,Commissioner,1,47.81944444,-110.6697222
+Fort Peck,MT,Judicial,Commissioner,1,48.0088889,-106.448611
+Missoula,MT,Judicial,Commissioner,1,46.8787176,-113.996586
+Fargo,ND,Judicial,Commissioner,2,46.8771863,-96.789803
+Bismark,ND,Judicial,Commissioner,2,46.8083268,-100.783739
+Pembina,ND,Judicial,Commissioner,1,48.9663765,-97.243676
+Lincoln,NE,Judicial,Commissioner,2,40.8257625,-96.685198
+Kearney,NE,Judicial,Commissioner,2,40.6993303,-99.081678
+Falls City,NE,Judicial,Commissioner,1,40.0608352,-95.601929
+Camp Sheridan,NE,Judicial,Commissioner,1,42.85194444,-102.7441667
+Lincoln,NE,Judicial,Commissioner,1,40.8257625,-96.685198
+Juniata,NE,Judicial,Commissioner,1,40.5900139,-98.506175
+Grand Island,NE,Judicial,Commissioner,1,40.9263957,-98.342012
+Crete,NE,Judicial,Commissioner,1,40.6252173,-96.961514
+Lowell,NE,Judicial,Commissioner,1,40.6475141,-98.8473
+North Platte,NE,Judicial,Commissioner,1,41.1402759,-100.760145
+Nebraska City,NE,Judicial,Commissioner,1,40.6765745,-95.859362
+Dakota City,NE,Judicial,Commissioner,1,42.4155496,-96.418364
+Plattsmouth,NE,Judicial,Commissioner,1,41.0111103,-95.880842
+Peru,NE,Judicial,Commissioner,1,40.4741686,-95.733605
+Sidney,NE,Judicial,Commissioner,1,41.1448219,-102.97745
+Santa Fe,NM,Judicial,Commissioner,5,35.6869752,-105.937799
+Albuquerque,NM,Judicial,Commissioner,1,35.0853336,-106.605553
+La Mesilla,NM,Judicial,Commissioner,2,35.9483575,-106.070579
+Fort Stanton,NM,Judicial,Commissioner,1,33.49583333,-105.5238889
+Silver City,NM,Judicial,Commissioner,1,32.770075,-108.280326
+La Junta,NM,Judicial,Commissioner,1,35.800833,-105.001389
+Taos,NM,Judicial,Commissioner,1,36.4072485,-105.573067
+Peralta,NM,Judicial,Commissioner,1,34.8369984,-106.690581
+Algondones,NM,Judicial,Commissioner,1,35.3805931,-106.479193
+Las Vegas,NM,Judicial,Commissioner,1,35.5942137,-105.222798
+Virginia City,NV,Judicial,Commissioner,3,39.3095135,-119.649979
+Eureka,NV,Judicial,Commissioner,2,39.5124858,-115.96078
+Reno,NV,Judicial,Commissioner,1,39.5296329,-119.813803
+Dayton,NV,Judicial,Commissioner,1,39.2371353,-119.592952
+Pioche,NV,Judicial,Commissioner,2,37.9298739,-114.45162
+Austin,NV,Judicial,Commissioner,1,39.4925701,-117.067236
+Elko,NV,Judicial,Commissioner,1,40.8324211,-115.763123
+Portland,OR,Judicial,Commissioner,1,45.5230622,-122.676482
+Salem,OR,Judicial,Commissioner,1,44.9428975,-123.035096
+Corvallis,OR,Judicial,Commissioner,1,44.5645659,-123.262044
+Pendleton,OR,Judicial,Commissioner,1,45.672075,-118.788597
+The Dalles,OR,Judicial,Commissioner,2,45.5945645,-121.178682
+McMinnville,OR,Judicial,Commissioner,1,45.2101162,-123.198716
+Baker City,OR,Judicial,Commissioner,1,44.7748748,-117.834385
+Albany,OR,Judicial,Commissioner,1,44.6365107,-123.105928
+Port Orford,OR,Judicial,Commissioner,1,42.749722,-124.498056
+Jacksonville,OR,Judicial,Commissioner,1,42.314444,-122.967222
+Astoria,OR,Judicial,Commissioner,1,46.1878841,-123.831253
+La Grande,OR,Judicial,Commissioner,1,45.3245771,-118.087719
+Oregon City,OR,Judicial,Commissioner,1,45.3573429,-122.606758
+Hillsboro,OR,Judicial,Commissioner,1,45.5228939,-122.989827
+Canyon City,OR,Judicial,Commissioner,1,44.3895995,-118.950232
+Empire City,OR,Judicial,Commissioner,1,43.376389,-124.237222
+Eugene,OR,Judicial,Commissioner,1,44.0520691,-123.086754
+Yankton,SD,Judicial,Commissioner,2,42.8711088,-97.397281
+Vermillion,SD,Judicial,Commissioner,1,42.7794417,-96.92921
+Canton,SD,Judicial,Commissioner,1,43.3008146,-96.59282
+Elk Point,SD,Judicial,Commissioner,1,42.6833303,-96.683648
+Sioux Falls,SD,Judicial,Commissioner,1,43.5445959,-96.731103
+Brownsville,TX,Judicial,Commissioner,1,25.9017472,-97.497484
+Galveston,TX,Judicial,Commissioner,7,29.3013479,-94.797696
+Houston,TX,Judicial,Commissioner,1,29.7604267,-95.369803
+Matagorda,TX,Judicial,Commissioner,1,28.691133,-95.968271
+Corpus Christi,TX,Judicial,Commissioner,2,27.8005828,-97.396381
+Montgomery,TX,Judicial,Commissioner,2,30.3882613,-95.696336
+Columbus,TX,Judicial,Commissioner,2,29.7066232,-96.539693
+Sabine Pass,TX,Judicial,Commissioner,1,29.7335518,-93.894333
+Victoria,TX,Judicial,Commissioner,1,28.8052674,-97.003598
+Laredo,TX,Judicial,Commissioner,1,27.5305671,-99.480324
+Hempstead,TX,Judicial,Commissioner,1,30.0974405,-96.078292
+Columbia,TX,Judicial,Commissioner,1,29.141389,-95.646944
+Richmond,TX,Judicial,Commissioner,1,29.5821811,-95.760783
+Austin,TX,Judicial,Commissioner,1,30.267153,-97.743061
+Paris,TX,Judicial,Commissioner,2,33.6609389,-95.555513
+Texarkana,TX,Judicial,Commissioner,2,33.425125,-94.047688
+Nacogdoches,TX,Judicial,Commissioner,1,31.6035129,-94.655487
+Jacksonville,TX,Judicial,Commissioner,1,31.963778,-95.270504
+Sherman,TX,Judicial,Commissioner,1,33.6356618,-96.608881
+Fort Worth,TX,Judicial,Commissioner,1,32.7554883,-97.330766
+Linn Flat,TX,Judicial,Commissioner,1,31.78989,-94.73187
+Kaufman,TX,Judicial,Commissioner,1,32.5890238,-96.308869
+Marshall,TX,Judicial,Commissioner,3,32.5448714,-94.367418
+Palestine,TX,Judicial,Commissioner,1,31.7621153,-95.630789
+Dallas,TX,Judicial,Commissioner,1,32.7766642,-96.796988
+Athens,TX,Judicial,Commissioner,1,32.2048735,-95.855521
+Crockett,TX,Judicial,Commissioner,1,31.3182359,-95.456614
+Lexington,TX,Judicial,Commissioner,1,30.4190974,-97.011652
+Henderson,TX,Judicial,Commissioner,1,32.1532156,-94.79938
+San Augustine,TX,Judicial,Commissioner,1,31.5299029,-94.106028
+Denton,TX,Judicial,Commissioner,1,33.2148412,-97.133068
+Clarksville,TX,Judicial,Commissioner,1,33.6106648,-95.052722
+Denison,TX,Judicial,Commissioner,1,33.7556593,-96.536658
+Corsicana,TX,Judicial,Commissioner,1,32.0954304,-96.468873
+Fort Clark,TX,Judicial,Commissioner,1,29.30583333,-100.4080556
+Salt Lake City,UT,Judicial,Commissioner,2,40.7607793,-111.891047
+Provo,UT,Judicial,Commissioner,2,40.2338438,-111.658534
+Beaver,UT,Judicial,Commissioner,1,38.2769149,-112.641052
+Seattle,WA,Judicial,Commissioner,2,47.6062095,-122.332071
+Olympia,WA,Judicial,Commissioner,1,47.0378741,-122.900695
+Walla Walla,WA,Judicial,Commissioner,1,46.0645809,-118.343021
+Yakima,WA,Judicial,Commissioner,1,46.6020711,-120.505899
+Vancouver,WA,Judicial,Commissioner,1,45.6387281,-122.661486
+Port Townsend,WA,Judicial,Commissioner,1,48.1170387,-122.760447
+Steilacoom,WA,Judicial,Commissioner,1,47.1698197,-122.602627
+Green River,WY,Judicial,Commissioner,1,41.5285757,-109.466246
+Fort Laramie,WY,Judicial,Commissioner,1,42.20916667,-104.5358333
+Cheyenne,WY,Judicial,Commissioner,2,41.1399814,-104.820246
+Laramie,WY,Judicial,Commissioner,1,41.3113669,-105.591101
+Evanston,WY,Judicial,Commissioner,1,41.2682794,-110.963237
+Tucson,AZ,Judicial,Court,5,32.2217429,-110.926479
+Phoenix,AZ,Judicial,Court,1,33.4483771,-112.074037
+Yuma,AZ,Judicial,Court,3,32.6926512,-114.627692
+Prescott,AZ,Judicial,Court,1,34.5400242,-112.468503
+San Francisco,CA,Judicial,Court,10,37.7749295,-122.419416
+Los Angeles,CA,Judicial,Court,1,34.0522342,-118.243685
+Pueblo,CO,Judicial,Court,3,38.2544472,-104.609141
+Denver,CO,Judicial,Court,5,39.7392358,-104.990251
+Boise,ID,Judicial,Court,6,43.6187102,-116.214607
+Lewiston,ID,Judicial,Court,3,46.39901,-117.004303
+Malade,ID,Judicial,Court,2,42.190833,-112.249167
+Atchison,KS,Judicial,Court,1,39.5630521,-95.121636
+Topeka,KS,Judicial,Court,4,39.0558235,-95.689019
+Leavenworth,KS,Judicial,Court,2,39.3111112,-94.922464
+Emporia,KS,Judicial,Court,1,38.403903,-96.181663
+Fort Scott,KS,Judicial,Court,1,37.8397626,-94.708295
+Helena,MT,Judicial,Court,5,46.5883707,-112.024505
+Virginia City,MT,Judicial,Court,3,45.2938143,-111.946091
+Deer Lodge,MT,Judicial,Court,3,46.3990941,-112.738372
+Falls City,NE,Judicial,Court,1,40.0608352,-95.601929
+Omaha,NE,Judicial,Court,6,41.2523634,-95.997988
+Santa Fe,NM,Judicial,Court,5,35.6869752,-105.937799
+Albuquerque,NM,Judicial,Court,2,35.0853336,-106.605553
+La Mesilla,NM,Judicial,Court,2,35.9483575,-106.070579
+Carson City,NV,Judicial,Court,2,39.1637984,-119.767403
+Virginia City,NV,Judicial,Court,4,39.3095135,-119.649979
+Portland,OR,Judicial,Court,5,45.5230622,-122.676482
+Salem,OR,Judicial,Court,1,44.9428975,-123.035096
+Yankton,SD,Judicial,Court,5,42.8711088,-97.397281
+Vermillion,SD,Judicial,Court,1,42.7794417,-96.92921
+Black Hills,SD,Judicial,Court,1,44.0805434,-103.231015
+Sheridan,SD,Judicial,Court,1,43.976932,-103.470468
+Galveston,TX,Judicial,Court,5,29.3013479,-94.797696
+Houston,TX,Judicial,Court,1,29.7604267,-95.369803
+Brownsville,TX,Judicial,Court,1,25.9017472,-97.497484
+Austin,TX,Judicial,Court,4,30.267153,-97.743061
+Waco,TX,Judicial,Court,2,31.549333,-97.14667
+Tyler,TX,Judicial,Court,2,32.3512601,-95.301062
+Salt Lake City,UT,Judicial,Court,8,40.7607793,-111.891047
+Provo,UT,Judicial,Court,2,40.2338438,-111.658534
+Beaver,UT,Judicial,Court,2,38.2769149,-112.641052
+Seattle,WA,Judicial,Court,2,47.6062095,-122.332071
+Olympia,WA,Judicial,Court,5,47.0378741,-122.900695
+Walla Walla,WA,Judicial,Court,2,46.0645809,-118.343021
+Yakima,WA,Judicial,Court,1,46.6020711,-120.505899
+Vancouver,WA,Judicial,Court,1,45.6387281,-122.661486
+Kulama,WA,Judicial,Court,1,46.0084472,-122.844551
+Steilacoom,WA,Judicial,Court,1,47.1698197,-122.602627
+Port Townsend,WA,Judicial,Court,1,48.1170387,-122.760447
+Cheyenne,WY,Judicial,Court,5,41.1399814,-104.820246
+Laramie,WY,Judicial,Court,2,41.3113669,-105.591101
+Evanston,WY,Judicial,Court,2,41.2682794,-110.963237
+Boise,ID,Treasury Department,Assay Office,2,43.6187102,-116.214607
+Helena,MT,Treasury Department,Assay Office,5,46.5883707,-112.024505
+Arizona City,AZ,Treasury Department,Customs Service,1,32.7558935,-111.670958
+Victoria,BC,Treasury Department,Customs Service,1,48.4284207,-123.365644
+San Diego,CA,Treasury Department,Customs Service,3,32.715738,-117.161084
+San Francisco,CA,Treasury Department,Customs Service,211,37.7749295,-122.419416
+Vallejo,CA,Treasury Department,Customs Service,1,38.1040864,-122.256637
+Eureka,CA,Treasury Department,Customs Service,2,40.8020712,-124.163673
+Wilmington,CA,Treasury Department,Customs Service,1,33.7857948,-118.264357
+Santa Barbara,CA,Treasury Department,Customs Service,1,34.4208305,-119.69819
+Helena,MT,Treasury Department,Customs Service,2,46.5883707,-112.024505
+Pembina,ND,Treasury Department,Customs Service,8,48.9663765,-97.243676
+Omaha,NE,Treasury Department,Customs Service,4,41.2523634,-95.997988
+Tucson,AZ,Treasury Department,Customs Service,1,32.2217429,-110.926479
+Las Cruces,NM,Treasury Department,Customs Service,1,32.3199396,-106.763654
+Astoria,OR,Treasury Department,Customs Service,6,46.1878841,-123.831253
+Oysterville,OR,Treasury Department,Customs Service,1,46.5489871,-124.02822
+Yakima,OR,Treasury Department,Customs Service,1,46.6020711,-120.505899
+Empire City,OR,Treasury Department,Customs Service,1,43.376389,-124.237222
+Gardiner City,OR,Treasury Department,Customs Service,1,43.730278,-124.11
+Portland,OR,Treasury Department,Customs Service,13,45.5230622,-122.676482
+Brownsville,TX,Treasury Department,Customs Service,18,25.9017472,-97.497484
+Brazos Island,TX,Treasury Department,Customs Service,3,26.0306348,-97.157471
+Edinburg,TX,Treasury Department,Customs Service,3,26.3017374,-98.163343
+Rio Grande City,TX,Treasury Department,Customs Service,4,26.3797874,-98.820305
+Roma,TX,Treasury Department,Customs Service,4,26.4088523,-99.015655
+Santa Maria,TX,Treasury Department,Customs Service,2,26.0786883,-97.849442
+Corpus Christi,TX,Treasury Department,Customs Service,10,27.8005828,-97.396381
+Laredo,TX,Treasury Department,Customs Service,2,27.5305671,-99.480324
+Carrizo,TX,Treasury Department,Customs Service,1,28.526667,-99.8625
+Aransas Pass,TX,Treasury Department,Customs Service,1,27.9094677,-97.14999
+El Paso,TX,Treasury Department,Customs Service,5,31.7618778,-106.485022
+Del Norte,TX,Treasury Department,Customs Service,1,31.7618778,-106.485022
+Silver City,TX,Treasury Department,Customs Service,1,32.0709662,-100.682606
+Ysleta,TX,Treasury Department,Customs Service,1,31.6984446,-106.324982
+San Elezario,TX,Treasury Department,Customs Service,1,31.5851146,-106.272757
+Galveston,TX,Treasury Department,Customs Service,22,29.3013479,-94.797696
+Sabine Pass,TX,Treasury Department,Customs Service,1,29.7335518,-93.894333
+Houston,TX,Treasury Department,Customs Service,1,29.7604267,-95.369803
+Velasco,TX,Treasury Department,Customs Service,1,28.9619144,-95.360495
+San Luis Pass,TX,Treasury Department,Customs Service,1,29.0794663,-95.119756
+Indianola,TX,Treasury Department,Customs Service,5,28.5119449,-96.487475
+Eagle Pass,TX,Treasury Department,Customs Service,3,28.7091433,-100.499521
+San Antonio,TX,Treasury Department,Customs Service,1,29.4241219,-98.493628
+San Felipe,TX,Treasury Department,Customs Service,1,29.7930093,-96.100793
+Port Townsend,WA,Treasury Department,Customs Service,10,48.1170387,-122.760447
+Fort Colville,WA,Treasury Department,Customs Service,1,48.62833333,-118.0919444
+Neah Bay,WA,Treasury Department,Customs Service,1,48.3681223,-124.62496
+San Juan,WA,Treasury Department,Customs Service,1,48.53389,-123.01862
+Sehome,WA,Treasury Department,Customs Service,1,48.7396077,-122.475473
+San Francisco,CA,Treasury Department,Internal Revenue_Agent,1,37.7749295,-122.419416
+Prescott,AZ,Treasury Department,Internal Revenue_Collector,1,34.5400242,-112.468503
+San Francisco,CA,Treasury Department,Internal Revenue_Collector,1,37.7749295,-122.419416
+Sacramento,CA,Treasury Department,Internal Revenue_Collector,1,38.5815719,-121.4944
+Denver,CO,Treasury Department,Internal Revenue_Collector,1,39.7392358,-104.990251
+Boise,ID,Treasury Department,Internal Revenue_Collector,1,43.6187102,-116.214607
+Ottawa,KS,Treasury Department,Internal Revenue_Collector,1,38.615768,-95.268637
+Helena,MT,Treasury Department,Internal Revenue_Collector,1,46.5883707,-112.024505
+Nebraska City,NE,Treasury Department,Internal Revenue_Collector,1,40.6765745,-95.859362
+Santa Fe,NM,Treasury Department,Internal Revenue_Collector,1,35.6869752,-105.937799
+Virginia City,NV,Treasury Department,Internal Revenue_Collector,1,39.3095135,-119.649979
+Portland,OR,Treasury Department,Internal Revenue_Collector,1,45.5230622,-122.676482
+Vermillion,SD,Treasury Department,Internal Revenue_Collector,1,42.7794417,-96.92921
+Galveston,TX,Treasury Department,Internal Revenue_Collector,1,29.3013479,-94.797696
+Austin,TX,Treasury Department,Internal Revenue_Collector,1,30.267153,-97.743061
+Jefferson,TX,Treasury Department,Internal Revenue_Collector,1,32.7573626,-94.345193
+Salt Lake City,UT,Treasury Department,Internal Revenue_Collector,1,40.7607793,-111.891047
+Olympia,WA,Treasury Department,Internal Revenue_Collector,1,47.0378741,-122.900695
+Cheyenne,WY,Treasury Department,Internal Revenue_Collector,1,41.1399814,-104.820246
+Tucson,AZ,Treasury Department,Internal Revenue_Deputy Collector,1,32.2217429,-110.926479
+Yuma,AZ,Treasury Department,Internal Revenue_Deputy Collector,1,32.6926512,-114.627692
+San Francisco,CA,Treasury Department,Internal Revenue_Deputy Collector,10,37.7749295,-122.419416
+Los Angeles,CA,Treasury Department,Internal Revenue_Deputy Collector,2,34.0522342,-118.243685
+Santa Cruz,CA,Treasury Department,Internal Revenue_Deputy Collector,1,36.9741171,-122.030796
+Antioch,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.0049214,-121.805789
+Santa Barbara,CA,Treasury Department,Internal Revenue_Deputy Collector,1,34.4208305,-119.69819
+Stockton,CA,Treasury Department,Internal Revenue_Deputy Collector,1,37.9577016,-121.29078
+Independence,CA,Treasury Department,Internal Revenue_Deputy Collector,2,36.8027102,-118.200095
+Visalia,CA,Treasury Department,Internal Revenue_Deputy Collector,1,36.3302284,-119.292059
+Merced,CA,Treasury Department,Internal Revenue_Deputy Collector,1,37.3021632,-120.482968
+Sonora,CA,Treasury Department,Internal Revenue_Deputy Collector,1,37.9829496,-120.382172
+Mokelumne Hill,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.3004709,-120.706322
+Sacramento,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.5815719,-121.4944
+Jackson,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.3488023,-120.774102
+Placerville,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.7296252,-120.798546
+Nevada City,CA,Treasury Department,Internal Revenue_Deputy Collector,1,39.2615606,-121.016059
+La Porte,CA,Treasury Department,Internal Revenue_Deputy Collector,1,39.6821146,-120.984121
+Yreka,CA,Treasury Department,Internal Revenue_Deputy Collector,1,41.7354186,-122.634471
+Suisun,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.2382474,-122.040244
+Napa,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.2975381,-122.286865
+Ukiah,CA,Treasury Department,Internal Revenue_Deputy Collector,1,39.1501709,-123.207783
+Arcata,CA,Treasury Department,Internal Revenue_Deputy Collector,1,40.8665166,-124.08284
+Denver,CO,Treasury Department,Internal Revenue_Deputy Collector,1,39.7392358,-104.990251
+Georgetown,CO,Treasury Department,Internal Revenue_Deputy Collector,1,39.7060984,-105.697504
+Colorado Springs,CO,Treasury Department,Internal Revenue_Deputy Collector,1,38.8338816,-104.821363
+Del Norte,CO,Treasury Department,Internal Revenue_Deputy Collector,1,37.6788919,-106.353368
+Boise,ID,Treasury Department,Internal Revenue_Deputy Collector,1,43.6187102,-116.214607
+Lewiston,ID,Treasury Department,Internal Revenue_Deputy Collector,1,46.39901,-117.004303
+Leavenworth,KS,Treasury Department,Internal Revenue_Deputy Collector,1,39.3111112,-94.922464
+Fort Scott,KS,Treasury Department,Internal Revenue_Deputy Collector,1,37.8397626,-94.708295
+Junction City,KS,Treasury Department,Internal Revenue_Deputy Collector,1,39.0286093,-96.831398
+Helena,MT,Treasury Department,Internal Revenue_Deputy Collector,1,46.5883707,-112.024505
+Bozeman,MT,Treasury Department,Internal Revenue_Deputy Collector,1,45.6769979,-111.042934
+Butte City,MT,Treasury Department,Internal Revenue_Deputy Collector,1,46.0038232,-112.534778
+Nebraska City,NE,Treasury Department,Internal Revenue_Deputy Collector,2,40.6765745,-95.859362
+Omaha,NE,Treasury Department,Internal Revenue_Deputy Collector,2,41.2523634,-95.997988
+Las Vegas,NM,Treasury Department,Internal Revenue_Deputy Collector,1,35.5942137,-105.222798
+Socorro,NM,Treasury Department,Internal Revenue_Deputy Collector,1,34.0583995,-106.891416
+Santa Fe,NM,Treasury Department,Internal Revenue_Deputy Collector,1,35.6869752,-105.937799
+Virginia City,NV,Treasury Department,Internal Revenue_Deputy Collector,1,39.3095135,-119.649979
+Winnemucca,NV,Treasury Department,Internal Revenue_Deputy Collector,1,40.9729584,-117.735685
+Austin,NV,Treasury Department,Internal Revenue_Deputy Collector,1,39.4925701,-117.067236
+Pioche,NV,Treasury Department,Internal Revenue_Deputy Collector,1,37.9298739,-114.45162
+Portland,OR,Treasury Department,Internal Revenue_Deputy Collector,1,45.5230622,-122.676482
+Dalles,OR,Treasury Department,Internal Revenue_Deputy Collector,1,32.7766642,-96.796988
+Salem,OR,Treasury Department,Internal Revenue_Deputy Collector,1,44.9428975,-123.035096
+Elk Point,SD,Treasury Department,Internal Revenue_Deputy Collector,1,42.6833303,-96.683648
+Deadwood,SD,Treasury Department,Internal Revenue_Deputy Collector,1,44.376651,-103.729642
+Victoria,TX,Treasury Department,Internal Revenue_Deputy Collector,2,28.8052674,-97.003598
+Galveston,TX,Treasury Department,Internal Revenue_Deputy Collector,2,29.3013479,-94.797696
+Huntsville,TX,Treasury Department,Internal Revenue_Deputy Collector,1,30.7235263,-95.550777
+Hockley,TX,Treasury Department,Internal Revenue_Deputy Collector,1,30.026861,-95.845856
+Austin,TX,Treasury Department,Internal Revenue_Deputy Collector,1,30.267153,-97.743061
+San Antonio,TX,Treasury Department,Internal Revenue_Deputy Collector,1,29.4241219,-98.493628
+Waco,TX,Treasury Department,Internal Revenue_Deputy Collector,1,31.549333,-97.14667
+Fort Worth,TX,Treasury Department,Internal Revenue_Deputy Collector,1,32.7554883,-97.330766
+Marshall,TX,Treasury Department,Internal Revenue_Deputy Collector,1,32.5448714,-94.367418
+Sulphur Springs,TX,Treasury Department,Internal Revenue_Deputy Collector,1,33.1384479,-95.601067
+Dallas,TX,Treasury Department,Internal Revenue_Deputy Collector,1,32.7766642,-96.796988
+Jefferson,TX,Treasury Department,Internal Revenue_Deputy Collector,1,32.7573626,-94.345193
+Salt Lake City,UT,Treasury Department,Internal Revenue_Deputy Collector,1,40.7607793,-111.891047
+Beaver,UT,Treasury Department,Internal Revenue_Deputy Collector,1,38.2769149,-112.641052
+Olympia,WA,Treasury Department,Internal Revenue_Deputy Collector,1,47.0378741,-122.900695
+Walla Walla,WA,Treasury Department,Internal Revenue_Deputy Collector,1,46.0645809,-118.343021
+Cheyenne,WY,Treasury Department,Internal Revenue_Deputy Collector,1,41.1399814,-104.820246
+Green River,WY,Treasury Department,Internal Revenue_Deputy Collector,1,41.5285757,-109.466246
+San Francisco,CA,Treasury Department,Internal Revenue_Gaugers,13,37.7749295,-122.419416
+Stockton,CA,Treasury Department,Internal Revenue_Gaugers,2,37.9577016,-121.29078
+Los Angeles,CA,Treasury Department,Internal Revenue_Gaugers,1,34.0522342,-118.243685
+San Jose,CA,Treasury Department,Internal Revenue_Gaugers,3,37.3382082,-121.886329
+San Diego,CA,Treasury Department,Internal Revenue_Gaugers,1,32.715738,-117.161084
+Weaverville,CA,Treasury Department,Internal Revenue_Gaugers,1,40.7309778,-122.941971
+Placerville,CA,Treasury Department,Internal Revenue_Gaugers,1,38.7296252,-120.798546
+Sacramento,CA,Treasury Department,Internal Revenue_Gaugers,2,38.5815719,-121.4944
+Napa,CA,Treasury Department,Internal Revenue_Gaugers,1,38.2975381,-122.286865
+Denver,CO,Treasury Department,Internal Revenue_Gaugers,1,39.7392358,-104.990251
+Pueblo,CO,Treasury Department,Internal Revenue_Gaugers,1,38.2544472,-104.609141
+Golden,CO,Treasury Department,Internal Revenue_Gaugers,1,39.755543,-105.2211
+Del Norte,CO,Treasury Department,Internal Revenue_Gaugers,1,37.6788919,-106.353368
+Boise,ID,Treasury Department,Internal Revenue_Gaugers,2,43.6187102,-116.214607
+Leavenworth,KS,Treasury Department,Internal Revenue_Gaugers,1,39.3111112,-94.922464
+Lawrence,KS,Treasury Department,Internal Revenue_Gaugers,1,38.9716689,-95.23525
+Fort Scott,KS,Treasury Department,Internal Revenue_Gaugers,1,37.8397626,-94.708295
+Iola,KS,Treasury Department,Internal Revenue_Gaugers,1,37.9244799,-95.399981
+Junction City,KS,Treasury Department,Internal Revenue_Gaugers,1,39.0286093,-96.831398
+Topeka,KS,Treasury Department,Internal Revenue_Gaugers,1,39.0558235,-95.689019
+Independence,KS,Treasury Department,Internal Revenue_Gaugers,1,37.2242358,-95.708313
+Emporia,KS,Treasury Department,Internal Revenue_Gaugers,1,38.403903,-96.181663
+Wichita,KS,Treasury Department,Internal Revenue_Gaugers,1,37.6871761,-97.330053
+Helena,MT,Treasury Department,Internal Revenue_Gaugers,1,46.5883707,-112.024505
+Fargo,ND,Treasury Department,Internal Revenue_Gaugers,1,46.8771863,-96.789803
+Omaha,NE,Treasury Department,Internal Revenue_Gaugers,2,41.2523634,-95.997988
+Nebraska City,NE,Treasury Department,Internal Revenue_Gaugers,1,40.6765745,-95.859362
+Santa Fe,NM,Treasury Department,Internal Revenue_Gaugers,1,35.6869752,-105.937799
+Virginia City,NV,Treasury Department,Internal Revenue_Gaugers,1,39.3095135,-119.649979
+Portland,OR,Treasury Department,Internal Revenue_Gaugers,1,45.5230622,-122.676482
+Yankton,SD,Treasury Department,Internal Revenue_Gaugers,1,42.8711088,-97.397281
+Galveston,TX,Treasury Department,Internal Revenue_Gaugers,2,29.3013479,-94.797696
+San Antonio,TX,Treasury Department,Internal Revenue_Gaugers,1,29.4241219,-98.493628
+Austin,TX,Treasury Department,Internal Revenue_Gaugers,1,30.267153,-97.743061
+Waco,TX,Treasury Department,Internal Revenue_Gaugers,1,31.549333,-97.14667
+Dallas,TX,Treasury Department,Internal Revenue_Gaugers,1,32.7766642,-96.796988
+Salt Lake City,UT,Treasury Department,Internal Revenue_Gaugers,1,40.7607793,-111.891047
+Walla Walla,WA,Treasury Department,Internal Revenue_Gaugers,1,46.0645809,-118.343021
+Port Gamble,WA,Treasury Department,Internal Revenue_Gaugers,1,47.8542606,-122.583758
+Seattle,WA,Treasury Department,Internal Revenue_Gaugers,1,47.6062095,-122.332071
+Cheyenne,WY,Treasury Department,Internal Revenue_Gaugers,1,41.1399814,-104.820246
+San Francisco,CA,Treasury Department,Internal Revenue_Storekeepers,6,37.7749295,-122.419416
+Stockton,CA,Treasury Department,Internal Revenue_Storekeepers,3,37.9577016,-121.29078
+Placerville,CA,Treasury Department,Internal Revenue_Storekeepers,2,38.7296252,-120.798546
+Iowa Hill,CA,Treasury Department,Internal Revenue_Storekeepers,1,39.1085091,-120.859382
+Sacramento,CA,Treasury Department,Internal Revenue_Storekeepers,2,38.5815719,-121.4944
+Santa Rosa,CA,Treasury Department,Internal Revenue_Storekeepers,1,38.440429,-122.714055
+Pueblo,CO,Treasury Department,Internal Revenue_Storekeepers,1,38.2544472,-104.609141
+Baldwin,KS,Treasury Department,Internal Revenue_Storekeepers,1,38.7775,-95.1875
+Leavenworth,KS,Treasury Department,Internal Revenue_Storekeepers,1,39.3111112,-94.922464
+Iola,KS,Treasury Department,Internal Revenue_Storekeepers,1,37.9244799,-95.399981
+Helena,MT,Treasury Department,Internal Revenue_Storekeepers,2,46.5883707,-112.024505
+Omaha,NE,Treasury Department,Internal Revenue_Storekeepers,3,41.2523634,-95.997988
+Nebraska City,NE,Treasury Department,Internal Revenue_Storekeepers,2,40.6765745,-95.859362
+Galveston,TX,Treasury Department,Internal Revenue_Storekeepers,2,29.3013479,-94.797696
+San Antonio,TX,Treasury Department,Internal Revenue_Storekeepers,1,29.4241219,-98.493628
+Weathersfield,TX,Treasury Department,Internal Revenue_Storekeepers,1,29.5537747,-98.47123
+Austin,TX,Treasury Department,Internal Revenue_Storekeepers,2,30.267153,-97.743061
+Waco,TX,Treasury Department,Internal Revenue_Storekeepers,1,31.549333,-97.14667
+Marshall,TX,Treasury Department,Internal Revenue_Storekeepers,1,32.5448714,-94.367418
+Salt Lake City,UT,Treasury Department,Internal Revenue_Storekeepers,1,40.7607793,-111.891047
+Walla Walla,WA,Treasury Department,Internal Revenue_Storekeepers,1,46.0645809,-118.343021
+Boise,ID,Treasury Department,Internal Revenue_Storekeepers and Gaugers,1,43.6187102,-116.214607
+Helena,MT,Treasury Department,Internal Revenue_Storekeepers and Gaugers,1,46.5883707,-112.024505
+Galveston,TX,Treasury Department,Internal Revenue_Storekeepers and Gaugers,1,29.3013479,-94.797696
+Austin,TX,Treasury Department,Internal Revenue_Storekeepers and Gaugers,6,30.267153,-97.743061
+Waco,TX,Treasury Department,Internal Revenue_Storekeepers and Gaugers,1,31.549333,-97.14667
+Leavenworth,KS,Treasury Department,Internal Revenue_TobaccoInspector,1,39.3111112,-94.922464
+San Francisco,CA,Treasury Department,Lifesaving Service,1,37.7749295,-122.419416
+Point Montara,CA,Treasury Department,Lighthouse,2,37.503373,-122.494722
+Yerba Buena,CA,Treasury Department,Lighthouse,3,37.7749295,-122.419416
+Point Loma,CA,Treasury Department,Lighthouse,2,32.70003,-117.246684
+Santa Barbara,CA,Treasury Department,Lighthouse,1,34.4208305,-119.69819
+Point Conception,CA,Treasury Department,Lighthouse,4,34.448753,-120.470753
+Point Pinos,CA,Treasury Department,Lighthouse,2,36.6388482,-121.930233
+Santa Cruz,CA,Treasury Department,Lighthouse,1,36.9741171,-122.030796
+Ano Nuevo,CA,Treasury Department,Lighthouse,2,37.133056,-122.333056
+Pigeon Point,CA,Treasury Department,Lighthouse,4,37.18175,-122.393917
+Farallones,CA,Treasury Department,Lighthouse,3,37.698966,-123.001651
+Point Benita,CA,Treasury Department,Lighthouse,4,37.81559,-122.52956
+Fort Point,CA,Treasury Department,Lighthouse,2,37.8105931,-122.477109
+Alcatraz,CA,Treasury Department,Lighthouse,2,37.8269775,-122.422956
+Point Reyes,CA,Treasury Department,Lighthouse,4,38.0690894,-122.806936
+Point Arena,CA,Treasury Department,Lighthouse,4,38.95476,-123.74084
+Cape Mendocino,CA,Treasury Department,Lighthouse,3,40.439906,-124.406031
+Humboldt,CA,Treasury Department,Lighthouse,3,40.7450055,-123.869509
+Trinidad Head,CA,Treasury Department,Lighthouse,1,41.0541666,-124.150556
+Crescent City,CA,Treasury Department,Lighthouse,1,41.7557501,-124.202591
+Mare Island,CA,Treasury Department,Lighthouse,2,38.0954755,-122.27247
+East Brother,CA,Treasury Department,Lighthouse,3,37.963233,-122.433643
+Piedras Blancas,CA,Treasury Department,Lighthouse,3,35.66563,-121.28432
+Point Hueneme,CA,Treasury Department,Lighthouse,2,34.145176,-119.210019
+Point Fermin,CA,Treasury Department,Lighthouse,2,33.7050194,-118.29396
+Cape Blanco,OR,Treasury Department,Lighthouse,3,42.836667,-124.563333
+Cape Arago,OR,Treasury Department,Lighthouse,2,43.34123,-124.37543
+Cape Foulweather,OR,Treasury Department,Lighthouse,3,44.676778,-124.079417
+Shoalwater Bay,OR,Treasury Department,Lighthouse,2,46.71,-124.08
+Point Adams,OR,Treasury Department,Lighthouse,3,46.188333,-123.977778
+Calcasien,TX,Treasury Department,Lighthouse,1,30.07493,-93.32235
+Sabine Pass,TX,Treasury Department,Lighthouse,2,29.7335518,-93.894333
+Galveston,TX,Treasury Department,Lighthouse,1,29.3013479,-94.797696
+Bolivar Point,TX,Treasury Department,Lighthouse,2,29.366611,-94.767181
+Half Moon Shoal,TX,Treasury Department,Lighthouse,2,29.4002336,-94.84881
+Red Fish Bar,TX,Treasury Department,Lighthouse,2,29.508008,-94.864923
+Clopper's Bar,TX,Treasury Department,Lighthouse,2,29.47197,-94.76915
+Matagorda,TX,Treasury Department,Lighthouse,2,28.691133,-95.968271
+West Shoal,TX,Treasury Department,Lighthouse,2,28.44758,-96.40535
+East Shoal,TX,Treasury Department,Lighthouse,2,28.383333,-96.4
+Half Moon Reef,TX,Treasury Department,Lighthouse,2,28.636889,-96.617278
+Aransas Pass,TX,Treasury Department,Lighthouse,2,27.9094677,-97.14999
+Point Isabel,TX,Treasury Department,Lighthouse,2,26.07797,-97.20711
+Brazos Island,TX,Treasury Department,Lighthouse,1,26.0306348,-97.157471
+Cape Disappointment,WA,Treasury Department,Lighthouse,3,46.2756,-124.0518
+Cape Flattery,WA,Treasury Department,Lighthouse,4,48.3917,-124.7366
+Ediz Hook,WA,Treasury Department,Lighthouse,2,48.1414793,-123.437408
+New Dungeness,WA,Treasury Department,Lighthouse,3,48.1818,-123.1096
+Smith Island,WA,Treasury Department,Lighthouse,2,48.318333,-122.843333
+Admiralty Head,WA,Treasury Department,Lighthouse,2,48.155374,-122.679333
+San Francisco,CA,Treasury Department,Lighthouse Inspectors and Engineers Office,5,37.7749295,-122.419416
+Astoria,OR,Treasury Department,Lighthouse Inspectors and Engineers Office,1,46.1878841,-123.831253
+Portland,OR,Treasury Department,Lighthouse Inspectors and Engineers Office,2,45.5230622,-122.676482
+San Francisco,CA,Treasury Department,Marine Hospital,3,37.7749295,-122.419416
+Galevston,TX,Treasury Department,Marine Hospital,1,29.3013479,-94.797696
+San Francisco,CA,Treasury Department,Special Agent,2,37.7749295,-122.419416
+Brownsville,TX,Treasury Department,Special Agent,1,25.9017472,-97.497484
+San Francisco,CA,Treasury Department,Steamboat Inspection Service,4,37.7749295,-122.419416
+Portland,OR,Treasury Department,Steamboat Inspection Service,2,45.5230622,-122.676482
+Galveston,TX,Treasury Department,Steamboat Inspection Service,2,29.3013479,-94.797696
+Seattle,WA,Treasury Department,Steamboat Inspection Service,2,47.6062095,-122.332071
+San Francisco,CA,Treasury Department,Subtreasury,11,37.7749295,-122.419416
+Tucson,AZ,Treasury Department,U.S. Mint,2,32.2217429,-110.926479
+San Francisco,CA,Treasury Department,U.S. Mint,255,37.7749295,-122.419416
+Denver,CO,Treasury Department,U.S. Mint,9,39.7392358,-104.990251
+Carson City,NV,Treasury Department,U.S. Mint,81,39.1637984,-119.767403
+Portland,OR,War Department,Quartermasters Department At Large,8,45.5230622,-122.676482
+Fort Leavenworth,KS,War Department,Quartermasters Department At Large,26,39.355,-94.92111111
+Sidney Barracks,NE,War Department,Quartermasters Department At Large,1,41.14277778,-102.9719444
+Denison,TX,War Department,Quartermasters Department At Large,1,33.7556593,-96.536658
+Fort Worth,TX,War Department,Quartermasters Department At Large,1,32.7554883,-97.330766
+Omaha,NE,War Department,Quartermasters Department At Large,22,41.2523634,-95.997988
+Bryan,WY,War Department,Quartermasters Department At Large,1,41.57055,-109.68138
+Bismark,ND,War Department,Quartermasters Department At Large,5,46.8083268,-100.783739
+Fort Dodge,KS,War Department,Quartermasters Department At Large,3,37.73194444,-99.93527778
+Fort Union,NM,War Department,Quartermasters Department At Large,4,35.90722222,-105.0122222
+Fort Laramie,WY,War Department,Quartermasters Department At Large,2,42.20916667,-104.5358333
+San Francisco,CA,War Department,Quartermasters Department At Large,16,37.7749295,-122.419416
+Fort Sill,OK,War Department,Quartermasters Department At Large,1,34.70416667,-98.50833333
+El Moro,CO,War Department,Quartermasters Department At Large,1,37.22051,-104.46696
+Wichita,KS,War Department,Quartermasters Department At Large,1,37.6871761,-97.330053
+Caddo,OK,War Department,Quartermasters Department At Large,1,34.12675,-96.26332
+Cheyenne,WY,War Department,Quartermasters Department At Large,8,41.1399814,-104.820246
+Fort Buford,ND,War Department,Quartermasters Department At Large,1,47.98638889,-104.0013889
+Yuma,AZ,War Department,Quartermasters Department At Large,2,32.6926512,-114.627692
+Camp Robinson,NE,War Department,Quartermasters Department At Large,1,42.66888889,-103.4672222
+Camp Douglas,UT,War Department,Quartermasters Department At Large,1,40.76527778,-111.8330556
+Santa Fe,NM,War Department,Quartermasters Department At Large,9,35.6869752,-105.937799
+Fort McKavett,TX,War Department,Quartermasters Department At Large,1,30.82694444,-100.1080556
+Fort Brown,TX,War Department,Quartermasters Department At Large,3,25.89833333,-97.49222222
+Fort Griffin,TX,War Department,Quartermasters Department At Large,1,32.92722222,-99.23222222
+Fort Concho,TX,War Department,Quartermasters Department At Large,1,31.45277778,-100.4291667
+Fort Harker,KS,War Department,Quartermasters Department At Large,1,38.709722,-98.156944
+Fort Shaw,MT,War Department,Quartermasters Department At Large,1,47.50444444,-111.8113889
+Grand Island,NE,War Department,Quartermasters Department At Large,1,40.9263957,-98.342012
+San Antonio,TX,War Department,Quartermasters Department At Large,17,29.4241219,-98.493628
+Fort Whipple,AZ,War Department,Quartermasters Department At Large,2,34.55472222,-112.4527778
+Prescott,AZ,War Department,Quartermasters Department At Large,3,34.5400242,-112.468503
+Ogden,UT,War Department,Quartermasters Department At Large,1,41.223,-111.97383
+Fort Fetterman,WY,War Department,Quartermasters Department At Large,2,42.84027778,-105.4797222
+Fort Boise,ID,War Department,Quartermasters Department At Large,16,43.61666667,-116.2
+Fort Abercrombie,ND,War Department,Quartermasters Department At Large,1,46.44472222,-96.71861111
+Fort Keogh,MT,War Department,Quartermasters Department At Large,7,46.405052,-105.869842
+Fort Riley,KS,War Department,Quartermasters Department At Large,1,39.1,-96.81666667
+Big Horn Post,MT,War Department,Quartermasters Department At Large,3,45.738213,-107.560288
+Brownsville,TX,War Department,Superintendents of National Cemeteries,1,25.9017472,-97.497484
+Fort Leavenworth,KS,War Department,Superintendents of National Cemeteries,1,39.355,-94.92111111
+Fort Scott,KS,War Department,Superintendents of National Cemeteries,1,37.8397626,-94.708295
+Fort Gibson,OK,War Department,Superintendents of National Cemeteries,1,35.806176,-95.255826
+Fort McPherson,NE,War Department,Superintendents of National Cemeteries,1,41.01611111,-100.5175
+San Antonio,TX,War Department,Superintendents of National Cemeteries,1,29.4241219,-98.493628
+Fort Brown,TX,War Department,Paymasters Clerks,1,25.89833333,-97.49222222
+San Antonio,TX,War Department,Paymasters Clerks,4,29.4241219,-98.493628
+Leavenworth,KS,War Department,Paymasters Clerks,4,39.3111112,-94.922464
+Santa Fe,NM,War Department,Paymasters Clerks,2,35.6869752,-105.937799
+Portland,OR,War Department,Paymasters Clerks,5,45.5230622,-122.676482
+San Francisco,CA,War Department,Paymasters Clerks,4,37.7749295,-122.419416
+Omaha,NE,War Department,Paymasters Clerks,4,41.2523634,-95.997988
+Salt Lake City,UT,War Department,Paymasters Clerks,1,40.7607793,-111.891047
+Cheyenne,WY,War Department,Paymasters Clerks,1,41.1399814,-104.820246
+Prescott,AZ,War Department,Paymasters Clerks,1,34.5400242,-112.468503
+Tucson,AZ,War Department,Paymasters Clerks,1,32.2217429,-110.926479
+Yuma,AZ,War Department,Paymasters Clerks,1,32.6926512,-114.627692
+San Francisco,CA,War Department,Department At Large,8,37.7749295,-122.419416
+Omaha,NE,War Department,Department At Large,7,41.2523634,-95.997988
+Portland,OR,War Department,Department At Large,5,45.5230622,-122.676482
+Fort Leavenworth,KS,War Department,Department At Large,11,39.355,-94.92111111
+San Antonio,TX,War Department,Department At Large,5,29.4241219,-98.493628
+Cheyenne,WY,War Department,Department At Large,3,41.1399814,-104.820246
+Prescott,AZ,War Department,Department At Large,3,34.5400242,-112.468503
+Santa Fe,NM,War Department,Department At Large,3,35.6869752,-105.937799
+Helena,MT,War Department,Department At Large,1,46.5883707,-112.024505
+San Francisco,CA,War Department,Surgeon General Office,4,37.7749295,-122.419416
+Benicia,CA,War Department,Ordinance Department,19,38.049365,-122.158578
+San Antonio,TX,War Department,Ordinance Department,12,29.4241219,-98.493628
+Vancouver,WA,War Department,Ordinance Department,2,45.6387281,-122.661486
+Camp Apache,AZ,War Department,Outpost,228,33.92861111,-110.1319444
+Camp Bowie,AZ,War Department,Outpost,115,32.15166667,-109.4816667
+Camp Grant,AZ,War Department,Outpost,233,32.84138889,-110.7111111
+Camp Lowell,AZ,War Department,Outpost,138,32.26,-110.8738889
+Camp McDowell,AZ,War Department,Outpost,96,33.63666667,-111.6744444
+Camp Mojave,AZ,War Department,Outpost,31,34.94305556,-114.595
+Camp Thomas,AZ,War Department,Outpost,92,33.08888889,-110.0580556
+Fort Whipple,AZ,War Department,Outpost,145,34.55472222,-112.4527778
+Camp Verde,AZ,War Department,Outpost,150,34.56666667,-111.8561111
+Alcatraz Island,CA,War Department,Other,77,37.82666667,-122.4233333
+Angel Island,CA,War Department,Other,56,37.86666667,-122.4333333
+Camp Bidwell,CA,War Department,Outpost,41,39.74,-121.8355556
+Camp Gaston,CA,War Department,Outpost,38,41.05027778,-123.6741667
+Presidio,CA,War Department,Other,175,37.79805556,-122.4658333
+Fort Yuma,CA,War Department,Outpost,4,32.78444444,-114.6452778
+Fort Lyon,CO,War Department,Outpost,130,38.09666667,-103.1519444
+Fort Garland,CO,War Department,Outpost,85,37.42944444,-105.4352778
+Fort Hall,ID,War Department,Outpost,41,43.02027778,-112.6347222
+Fort Boise,ID,War Department,Outpost,27,43.61666667,-116.2
+Fort Lapwai,ID,War Department,Outpost,45,46.45,-116.8175
+Lewiston,ID,War Department,Other,427,46.39901,-117.004303
+Fort Leavenworth,KS,War Department,Outpost,441,39.355,-94.92111111
+Fort Hays,KS,War Department,Outpost,42,38.8617,-99.34222222
+Fort Dodge,KS,War Department,Outpost,93,37.73194444,-99.93527778
+Fort Larned ,KS,War Department,Outpost,36,38.18305556,-99.21805556
+Fort Riley ,KS,War Department,Outpost,146,39.1,-96.81666667
+Fort Wallace ,KS,War Department,Outpost,103,38.905,-101.5594444
+Fort Shaw,MT,War Department,Outpost,189,47.50444444,-111.8113889
+Fort Ellis,MT,War Department,Outpost,394,45.65444444,-110.9763889
+Fort Benton,MT,War Department,Outpost,28,47.81944444,-110.6697222
+Camp Baker,MT,War Department,Outpost,57,46.68,-111.1675
+Big Horn Barracks,MT,War Department,Barracks,231,45.738213,-107.560288
+Tongue River Barracks,MT,War Department,Barracks,388,46.409282,-105.866077
+Missoula,MT,War Department,Other,32,46.862121,-113.988298
+Fort Abercrombie,ND,War Department,Outpost,40,46.44472222,-96.71861111
+Fort Totten,ND,War Department,Outpost,34,47.9775,-98.99305556
+Fort Buford,ND,War Department,Outpost,285,47.98638889,-104.0013889
+Fort A Lincoln,ND,War Department,Outpost,205,46.76416667,-100.8497222
+Fort Rice,ND,War Department,Outpost,111,46.52361111,-100.5861111
+Fort Stevenson,ND,War Department,Outpost,42,47.56722222,-101.4305556
+Fort Pembina,ND,War Department,Outpost,73,48.96522,-97.240112
+Omaha Barracks,NE,War Department,Barracks,325,41.25,-96
+North Platte,NE,War Department,Other,36,41.13583333,-100.7705556
+Camp Robinson,NE,War Department,Outpost,391,42.66888889,-103.4672222
+Camp Sheridan,NE,War Department,Outpost,113,42.85194444,-102.7441667
+Sidney Barracks,NE,War Department,Barracks,74,41.14277778,-102.9719444
+Fort McPherson,NE,War Department,Outpost,127,41.01611111,-100.5175
+Fort Hartsnuff,NE,War Department,Outpost,40,41.72333333,-99.02333333
+Fort Marcy,NM,War Department,Outpost,73,35.68944444,-105.9322222
+Fort Bayard,NM,War Department,Outpost,177,32.79638889,-108.1488889
+Fort Craig,NM,War Department,Outpost,70,33.63555556,-107.0141667
+Fort Stanton,NM,War Department,Outpost,154,33.49583333,-105.5238889
+Fort Union,NM,War Department,Outpost,189,35.90722222,-105.0122222
+Fort Wingate,NM,War Department,Outpost,136,35.46777778,-108.5405556
+Camp McDermit,NV,War Department,Outpost,30,41.94666667,-117.7502778
+Camp Halleck,NV,War Department,Outpost,39,40.80055556,-115.3377778
+Fort Sill,OK,War Department,Outpost,548,34.70416667,-98.50833333
+Fort Reno,OK,War Department,Outpost,228,35.56166667,-98.035
+Camp Supply,OK,War Department,Outpost,133,36.57638889,-99.56
+Fort Gibson,OK,War Department,Outpost,79,35.806176,-95.255826
+HQ Dept of Columbia,OR,War Department,Headquarters,25,45.52,-122.6819444
+Camp Harney,OR,War Department,Outpost,90,43.06666667,-118.9666667
+Fort Klamath,OR,War Department,Outpost,34,42.69194444,-121.9722222
+Fort Stevens,OR,War Department,Outpost,10,46.20194444,-123.9625
+Fort Sisseton,SD,War Department,Outpost,46,45.65861111,-97.53188889
+Fort Randall,SD,War Department,Outpost,137,43.01888889,-98.62416667
+Fort Sully,SD,War Department,Outpost,136,44.34611111,-100.2747222
+Fort Seward,SD,War Department,Outpost,34,43.24138889,-98.2825
+Cheyenne Agency,SD,War Department,Agency,180,44.666352,-100.698698
+Standing Rock Agency,SD,War Department,Agency,245,45.75,-101.2
+Lower Brule Agency,SD,War Department,Agency,42,44.53527778,-98.75194444
+Fort Elliot,TX,War Department,Outpost,200,35.53361111,-100.4391667
+HQ Dept of Texas,TX,War Department,Headquarters,85,29.41666667,-98.5
+Fort Clark,TX,War Department,Outpost,881,29.30583333,-100.4080556
+Fort Concho,TX,War Department,Outpost,373,31.45277778,-100.4291667
+Fort Davis,TX,War Department,Outpost,225,30.59277778,-103.8919444
+Fort Duncan,TX,War Department,Outpost,158,28.70722222,-100.4991667
+Fort Griffin,TX,War Department,Outpost,86,32.92722222,-99.23222222
+Fort McKavett,TX,War Department,Outpost,236,30.82694444,-100.1080556
+Fort Richardson,TX,War Department,Outpost,85,33.20805556,-98.16472222
+Fort Stockton,TX,War Department,Outpost,114,30.89138889,-102.885
+Fort McIntosh,TX,War Department,Outpost,51,27.50527778,-99.52055556
+Fort Brown,TX,War Department,Outpost,470,25.89833333,-97.49222222
+Ringgold Barracks,TX,War Department,Barracks,330,26.38055556,-98.81833333
+San Felipe,TX,War Department,Other,76,29.819683,-96.110065
+Fort Cameron,UT,War Department,Outpost,43,38.27888889,-112.6005556
+Camp Douglas,UT,War Department,Outpost,176,40.76527778,-111.8330556
+Fort Canby,WA,War Department,Outpost,8,46.29111111,-124.0722222
+Fort Colville,WA,War Department,Outpost,52,48.62833333,-118.0919444
+Fort Townsend,WA,War Department,Outpost,14,48.1025,-122.7752778
+Fort Vancouver,WA,War Department,Outpost,58,45.6225,-122.6622222
+Fort Walla Walla,WA,War Department,Outpost,44,46.05111111,-118.3302778
+Fort Laramie,WY,War Department,Outpost,431,42.20916667,-104.5358333
+Fort DA Russell,WY,War Department,Outpost,465,41.16638889,-104.8627778
+Fort Sanders,WY,War Department,Outpost,76,41.26833333,-105.5980556
+Fort Fred Steele,WY,War Department,Outpost,40,41.77833333,-106.9475
+Fort McKinney,WY,War Department,Outpost,158,44.355791,-106.688741
+Camp Stambaugh,WY,War Department,Outpost,40,41.68027778,-108.7555556
+Fort Bridger,WY,War Department,Outpost,100,41.31777778,-110.3919444
+Camp Brown,WY,War Department,Outpost,146,42.65388889,-109.6986111
+Fort Fetterman,WY,War Department,Outpost,138,42.84027778,-105.4797222
